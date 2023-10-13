@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "128953745799",
+    "project_id": "mscassgment",
+    "storage_bucket": "mscassgment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128953745799:android:8801c8ce53c94cd7b09322",
+        "android_client_info": {
+          "package_name": "com.example.assigment_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "128953745799-4nq18dqajpfv395tk2j00oqaencg223h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuresLUOmtySnF2FL8PZ2GYn4jBofJAd0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "128953745799-4nq18dqajpfv395tk2j00oqaencg223h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
